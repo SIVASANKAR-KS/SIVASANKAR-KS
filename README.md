@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SIVASANKAR-KS (beginner)
+- 👋 Hi, I’m @SIVASANKAR E (beginner)
 - 👀 I’m interested in python AI reactJS
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on new AI 
